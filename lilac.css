@@ -1,0 +1,300 @@
+.left-menu {
+	border: unset !important;
+}
+.bodybg {
+			background-image: url(//beon.fun/blogs/62/08/10862/design/pagebg2.png?1783712598);
+		background-attachment: fixed
+					, scroll
+			;
+			background-position: bottom left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		}
+
+	.py-4 a, .crumbs a{
+		color:  !important;
+	}
+	.py-4 a:hover, .crumbs a:hover {
+		color:  !important;
+	}
+
+.crumbs {
+		background-color: #e9e7f0;
+	background-color: rgba(233,231,240, 1);
+				color: #e9e7f0;	
+				background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			
+		border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.post-content {
+		background-color: #ffffff;
+	background-color: rgba(255,255,255, 1);
+		color: #aba7bc;
+			background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		
+			border-top-color: #e9e7f0;
+			border-top-width: 2px;
+			border-top-style: solid;
+				border-right-color: #e9e7f0;
+			border-right-width: 0px;
+					border-bottom-color: #e9e7f0;
+			border-bottom-width: 0px;
+					border-left-color: #e9e7f0;
+			border-left-width: 2px;
+			border-left-style: solid;
+				border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 35px;
+			border-bottom-left-radius: 0px;
+	}
+.post-title {
+	color: #aba7bc;
+}
+.comment-content {
+		background-color: #ffffff;
+	background-color: rgba(255,255,255, 0.6);
+		color: #aba7bc;
+			background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+			
+			border-top-color: #e9e7f0;
+			border-top-width: 0px;
+					border-right-color: #e9e7f0;
+			border-right-width: 0px;
+					border-bottom-color: #e9e7f0;
+			border-bottom-width: 2px;
+			border-bottom-style: solid;
+				border-left-color: #e9e7f0;
+			border-left-width: 2px;
+			border-left-style: solid;
+				border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.left-menu > div {
+		background-color: #ffffff;
+	background-color: rgba(255,255,255, 1);
+			color: ;
+				background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: bottom left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		
+			border-top-color: #ffffff;
+			border-top-width: 0px;
+			border-top-style: solid;
+				border-right-color: #ffffff;
+			border-right-width: 0px;
+					border-bottom-color: ;
+			border-bottom-width: 0px;
+					border-left-color: ;
+			border-left-width: 0px;
+					border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.left-menu > div > h3 {
+		background-color: #e9e7f0 !important;
+	background-color: rgba(233,231,240, 1) !important;
+			color: #e9e7f0 !important;	
+				background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		
+		border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.textareabg {
+			background-color: #cccad8;
+		background-color: rgba(204,202,216, 0.3);
+				color: ;	
+	}
+.datebg {
+			color: #e9e7f0;	
+				background-image: url(//beon.fun/blogs/62/08/10862/design/datebg.png?1783712598), url(//beon.fun/blogs/62/08/10862/design/datebg2.png?1783712598);
+					background-attachment: scroll
+							, scroll
+						;
+							background-position: center left
+							, center left
+						;
+							background-repeat: repeat
+							, repeat-x
+						;
+							background-size: auto
+							, auto
+						;
+					border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+	.blog__gifts {
+		display: none!important;
+	}
+	.blog__read-me {
+		display: none!important;
+	}
+	.blog__iread {
+		display: none!important;
+	}
+	.blog__last-comments {
+		display: none!important;
+	}
+	.blog_total_counter {
+		display: none!important;
+	}
+
+nav.navbar {
+			background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+					color: #aba7bc !important;
+			border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+
+	nav.navbar a {
+		color: #aba7bc !important;
+	}
+
+	nav.navbar a:hover {
+		color: #aba7bc !important;
+	}
+
+
+a.navbar-brand {
+  text-transform: lowercase;
+  font-size: 14px;
+  color: #aba7bc 
+}
+
+.quotation {
+    background: none;
+    border-left: 2px solid #d2cbeb;
+    font-size: 12px;
+    font-style: normal;
+    padding-left: 5px;
+    margin-left: 7px;
+    margin-bottom: 0;
+}
+
+a.user.post-title-user {
+  color: #b5adbe
+}
+
+div div a {
+  color: #b5adbe
+}
+
+span[data-target="#deleteconfirmmodal"] {
+color: #b5adbe
+}
+
+.liked .fas, .reposted .fas, .bookmarked .fas
+Specificity: (0,2,0)
+ {
+    color: #b5adbe !important;
+}
+
+/* Обычное состояние ссылки */
+a {
+  color: #b5adbe; 
+  transition: color 0.3s ease; /* Плавное изменение цвета за 0.3 сек */
+}
+
+/* Состояние при наведении */
+a:hover {
+  color: #d2cbeb; /* Ссылка станет другой при наведении */
+}
+
+div.sign {
+  color: #b5adbe
+}
+
+div div div {
+  color: #b5adbe
+}
+
+div.tag_bar {
+  color: #8e8797
+}
+
+.bottombg {
+		color: ;
