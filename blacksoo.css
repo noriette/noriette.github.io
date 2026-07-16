@@ -291,7 +291,7 @@ div div div {
 div.left-menu:hover {
 opacity: 1; /* Становится видимым */
 transform: translateY(0); /* Возвращается на свое исходное место */
-max-height: 500px; 
+max-height: 700px; 
 }
 
 div.left-menu {
