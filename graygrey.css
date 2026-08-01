@@ -1,0 +1,441 @@
+.left-menu {
+	border: unset !important;
+}
+.bodybg {
+			background-image: url(https://i1.beon.fun/63/9/963/89/1877089/pagebg2.png);
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		}
+
+	.py-4 a, .crumbs a{
+		color:  !important;
+	}
+	.py-4 a:hover, .crumbs a:hover {
+		color:  !important;
+	}
+
+.crumbs {
+		background-color: #cdcdcd;
+	background-color: rgba(205,205,205, 1);
+				color: #ffffff;	
+				background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			
+		border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.post-content {
+		background-color: #ffffff;
+	background-color: rgba(255,255,255, 1);
+		color: #212121;
+			background-image: url(https://i1.beon.fun/63/9/963/90/1877090/postbg.png), url(https://i1.beon.fun/63/9/963/91/1877091/postbg2.png);
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat-y
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		
+			border-top-color: #cdcdcd;
+			border-top-width: 1px;
+			border-top-style: solid;
+				border-right-color: #cdcdcd;
+			border-right-width: 1px;
+			border-right-style: solid;
+				border-bottom-color: #cdcdcd;
+			border-bottom-width: 1px;
+			border-bottom-style: solid;
+				border-left-color: ;
+			border-left-width: 0px;
+					border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.post-title {
+	color: #696969;
+}
+.comment-content {
+		background-color: #ffffff;
+	background-color: rgba(255,255,255, 0.5);
+		color: #212121;
+			background-image: url(//beon.fun/blogs/62/08/10862/design/commentbg2.png?1785590387);
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+			
+			border-top-color: ;
+			border-top-width: 0px;
+					border-right-color: #cdcdcd;
+			border-right-width: 1px;
+			border-right-style: solid;
+				border-bottom-color: #cdcdcd;
+			border-bottom-width: 1px;
+			border-bottom-style: solid;
+				border-left-color: ;
+			border-left-width: 0px;
+					border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.left-menu > div {
+		background-color: #ffffff;
+	background-color: rgba(255,255,255, 0.5);
+			color: ;
+				background-image: url(//beon.fun/blogs/62/08/10862/design/lmenubg2.png?1785590387);
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		
+			border-top-color: ;
+			border-top-width: 0px;
+					border-right-color: ;
+			border-right-width: 0px;
+					border-bottom-color: ;
+			border-bottom-width: 0px;
+					border-left-color: ;
+			border-left-width: 0px;
+					border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.left-menu > div > h3 {
+		background-color: #cdcdcd !important;
+	background-color: rgba(205,205,205, 1) !important;
+			color: #ffffff !important;	
+				background-image: ;
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		
+		border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+.textareabg {
+			background-color: #cdcdcd;
+		background-color: rgba(205,205,205, 0.4);
+				color: ;	
+	}
+.datebg {
+			color: #ffffff;	
+				background-image: url(//beon.fun/blogs/62/08/10862/design/datebg2.png?1785590387);
+					background-attachment: scroll
+							, scroll
+						;
+							background-position: center left
+							, center left
+						;
+							background-repeat: no-repeat
+							, no-repeat
+						;
+							background-size: auto
+							, auto
+						;
+					border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+	.blog_total_counter {
+		display: none!important;
+	}
+
+nav.navbar {
+			background-image: url(//beon.fun/blogs/62/08/10862/design/navbarbg2.png?1785590387);
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+					color:  !important;
+			border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+
+	nav.navbar a {
+		color:  !important;
+	}
+
+	nav.navbar a:hover {
+		color:  !important;
+	}
+
+.bottombg {
+		background-color: #ffffff;
+	background-color: rgba(255,255,255, 0.4);
+		color: ;
+			background-image: url(//beon.fun/blogs/62/08/10862/design/footerbg2.png?1785590387);
+		background-attachment: scroll
+					, scroll
+			;
+			background-position: top left
+					, top left
+			;
+			background-repeat: repeat
+					, repeat
+			;
+			background-size: auto
+					, auto
+			;
+		
+			border-top-color: ;
+			border-top-width: 0px;
+					border-right-color: ;
+			border-right-width: 0px;
+					border-bottom-color: ;
+			border-bottom-width: 0px;
+					border-left-color: ;
+			border-left-width: 0px;
+					border-top-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+	}
+
+
+        li a span {
+  color: #9e9e9e
+}
+
+div.avatars-fullscreen-link-wrapper {
+  background-color: #bdbdbd
+}
+
+button.btn.btn-primary.avatars-modal__approve {
+  background-color: #9e9e9e;
+}
+
+div span a {
+  background-color: #eeeeee;
+}
+
+div.footer__infolinks.p-1::after {
+  content: "вопросы по дизайну к автору — valentine.beon.fun";
+  color: #88888880; 
+}
+
+h3.left-menu-text {
+background: linear-gradient(to right, #cdcdcd, #ffffff);
+}
+
+div.crumbs {
+  background: linear-gradient(to right, #cdcdcd, #ffffff);
+}
+
+div.datebg  {
+  background: linear-gradient(to right, #cdcdcd, #e0e0e0);
+}
+
+div.datebg  {
+ display: block; 
+  width: fit-content; 
+}
+
+div.m2 {
+  text-transform: lowercase;
+}
+
+img.imagefsme {
+filter: grayscale(0.3);
+transition: .3s;
+}
+
+img.imagefsme:hover {
+filter: grayscale(0);
+transition: .3s;
+}
+
+.post-avatar img {
+    filter: grayscale(0.3);
+    transition: 0.2s;
+}
+.post-avatar img:hover {
+    filter: grayscale(0);
+    transition: 0.2s;
+}
+
+.post-content {
+  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1) 1%, rgba(0,0,0,1) 100%, rgba(0,0,0,0));
+  mask-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1) 1%, rgba(0,0,0,1) 100%, rgba(0,0,0,0));
+}
+
+div.content {
+  padding-left: 55px;
+}
+
+div.bottombg.p-1 {
+  text-transform: lowercase
+}
+
+div div h2 {
+  text-transform: lowercase;
+  font-size: 16px;
+  background-color: #e0e0e0;
+  font-weight: 300;
+  font-style: normal;
+}
+
+h3.left-menu-text {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+.post-avatar > a > img {
+ border-left: 2px solid #cdcdcd;
+ border-right: 2px solid #cdcdcd;
+ border-top: 2px solid #cdcdcd;
+ border-bottom: 2px solid #cdcdcd;
+}
+
+div a img {
+  padding-left: 3px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+}
+
+
+.quotation {
+    background: none;
+    border-left: 3px solid #cdcdcd;
+    font-style: normal;
+    padding-left: 5px;
+    margin-left: 7px;
+}
+
+.quotation {
+ display: block; /* элемент остается блочным */
+  width: fit-content; /* ширина строго по длине текста */
+  background-color: #e0e0e080;
+}
+
+
+a {
+  color:#424242; 
+  text-decoration: none; 
+  transition: color 0.3s ease; 
+}
+
+a:hover {
+  color: #a8a8a8;
+}
+
+li a span {
+  color: #cdcdcd;
+}
+
+span[data-target="#deleteconfirmmodal"] {
+color: #000000;
+}
+
+
+
+div div a {
+  color: #434343;
+}
+
+
+div.post-row {
+  padding-left: 30px;
+}
+
+div.post-header {
+  padding-left: 30px;
+}
+
+a.navbar-brand {
+  color: #ffffff;
+  background-color: #cdcdcd;
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+}
+
+div.navbar-collapse {
+  text-transform: lowercase;
+  color: #cdcdcd;
+}
+
+div.datebg {
+  font-weight: 400;
+  font-style: normal;
+}
+
+span.crumb-item {
+  font-weight: 300;
+  font-style: normal
+}
+
+@media (max-width: 800px) {
+div.content {
+padding-left: 0px;
+}
